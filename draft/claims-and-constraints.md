@@ -7,7 +7,7 @@ As of: 2026-09-13 (UTC). Classifier: `src/classify.py` on live Vercel text expor
 - Do not assert an SEC quiet period. Anthropic confidential draft S-1 announced 1 Jun 2026; OpenAI confidential S-1 announced 8 Jun 2026. Neither has a public prospectus or listing date. Use “run-up to a possible listing.”
 - “Steering wheel” / “Faustian bargain” are our framing, not official quotes.
 - Do not imply NVIDIA chips have a kill switch. NVIDIA says they do not and should not. House Chip Security Act ANS text tells Commerce not to require one. Hardware control = export, KYC, power, fabs — not a remote brick.
-- Karp “means of production” / alpha: CNBC 1 Jul 2026. Ontology line is Diginomica/secondary — don’t quote it as CNBC.
+- Karp “means of production” / alpha: CNBC 1 Jun 2026. Ontology line is Diginomica/secondary — don’t quote it as CNBC.
 - Do not assert that labs train on enterprise API inputs unless a primary source says so.
 - Vercel figures are live. Do not hardcode 73.3%. That print was ~12 Sep. 13 Sep open-token share is 75.87%.
 - OpenRouter daily top-50 + `other` bucket needs an API key. Until then, do not fake the series. Cite the stub.
