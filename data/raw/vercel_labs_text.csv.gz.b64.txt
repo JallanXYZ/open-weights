@@ -1,1 +1,7 @@
-H4sIALIwp2oC/5W9zY4lybGdO9dTFDhuboa7+a9murrAhQANBQEaCUV2HbLA7q6+3cVzDvuN9Bp6MsVuZWW62bJl7skRgbbc5RHh
+# vercel_labs_text.csv (gzip + base64, split)
+
+Concatenate parts then decode:
+
+```bash
+cat vercel_labs_text.csv.gz.b64.part*.txt | base64 -d | gzip -d > vercel_labs_text.csv
+```
