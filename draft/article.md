@@ -101,3 +101,5 @@ Once weights and a stack of accelerators exist outside a lab VPC, a LICENSE file
 - **Everyone else:** Refresh the chart. Yesterday’s round number expires.
 
 Data and code: [github.com/JallanXYZ/open-weights](https://github.com/JallanXYZ/open-weights). Primary series: Vercel AI Gateway (CC BY 4.0). OpenRouter daily tokens: not included pending API key. Hugging Face: no comparable global inference-token series — we did not invent one.
+
+<!-- citation-pass 2026-09-13 -->
